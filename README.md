@@ -1,4 +1,4 @@
-# 📊 Projeto Análise de Churn – Telecom X
+# 📊 Projeto Análise de cliente ETL– Telecom X
 
 ## Sobre o Projeto
 
